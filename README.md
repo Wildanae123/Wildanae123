@@ -13,14 +13,13 @@
 </p>
 <br/>
 
-## 🙋‍♂️ About Me
+## ✨ About Me
 <p align="center">
   <samp>
     <b>I'm a</b>
     <br>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Laila&pause=1000&color=FF008C&center=true&vCenter=true&random=true&width=435&
-      lines=Information+technology+support;Software+Developer;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Laila&pause=1000&color=FF008C&center=true&vCenter=true&random=true&width=435&lines=Information+technology+support;Software+Developer;Programmer" alt="Typing SVG" />
     </a>
   </samp>
 </p>
@@ -36,13 +35,13 @@
   <a href="https://www.linkedin.com/in/wildan-andika-permana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=ff008c&labelColor=141321&color=141321">
   </a>
-  <a href="" target="_blank">
+  <a href="https://twitter.com/willldanae" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=ff008c&labelColor=141321&color=141321">
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.instagram.com/willldanae/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=ff008c&labelColor=141321&color=141321">
   </a>
-  <a href="" target="_blank">
+  <a href="https://web.facebook.com/willldanae/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-20BEFF?style=for-the-badge&logo=facebook&logoColor=ff008c&labelColor=141321&color=141321">
   </a>
 </p>
@@ -58,16 +57,16 @@
     <br>
     <br>
     <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FWildanae123%2F">
-      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWildanae123%2F&label=VISITOR&labelColor=%23142350&countColor=%23ff008c" />
+      <img src="https://api.visitorbadge.io/api/visitors?path=Wildanae123&label=VISITOR&labelColor=%23141321&countColor=%23e4027f" />
     </a>
     <a href="https://github.com/Wildanae123?tab=followers">      
-      <img src="https://img.shields.io/github/followers/Wildanae123?label=Follower&style=for-the-badge&labelColor=%23142350&color=%23ff008c" alt="GitHub Badge">
+      <img src="https://img.shields.io/github/followers/Wildanae123?label=Follower&style=for-the-badge&labelColor=%23141321&color=%23ff008c" alt="GitHub Badge">
     </a>
   </samp>
 </p>
 <br/>
 
-## 🛠 Tech Stack
+## 💡 Tech Stack
 <p align="center">
   <ul>
     <li>Programming Languages</li>
@@ -106,7 +105,21 @@
 </p>
 <br/>
 
-## Top Contributed Repo
+## 🔝 Top Repo
+<p align="center">
+  <a href="https://github.com/Wildanae123/Proyek-Todo-Apps">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wildanae123&repo=Proyek-Todo-Apps&border_color=ee3e86&bg_color=141321&title_color=ee3e86&text_color=8bcecc&icon_color=8bcecc" />
+  </a>
+  <a href="https://github.com/Wildanae123/Implementasi-Web-Storage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wildanae123&repo=Implementasi-Web-Storage&border_color=ee3e86&bg_color=141321&title_color=ee3e86&text_color=8bcecc&icon_color=8bcecc" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/Wildanae123?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-2962FF?style=for-the-badge&logo=oding&logoColor=ff008c&labelColor=142350&color=141321" /></a>
+</p>
+<br/>
+
+## 👑 Top Contributed Repo
 <p align="center">
   <a href="https://github.com/Wildanae123/Proyek-Todo-Apps">
     <img src="https://github-contributor-stats.vercel.app/api?username=Wildanae123&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
@@ -117,39 +130,19 @@
 </p>
 <br/>
 
-## 🔝 Top Repo
-<p align="center">
-  <a href="https://github.com/Wildanae123/Proyek-Todo-Apps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wildanae123&repo=Proyek-Todo-Apps&border_color=ee3e86&bg_color=141321&title_color=ee3e86&text_color=8bcecc&icon_color=8bcecc" height="200px"/>
-  </a>
-  <a href="https://github.com/Wildanae123/Implementasi-Web-Storage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wildanae123&repo=Implementasi-Web-Storage&border_color=ee3e86&bg_color=141321&title_color=ee3e86&text_color=8bcecc&icon_color=8bcecc" height="200px"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/Wildanae123?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-2962FF?style=for-the-badge&logo=oding&logoColor=ff008c&labelColor=142350&color=141321" /></a>
-</p>
-<br/>
-
-## 📝 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/Wildanae123">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wildanae123&theme=radical&border=ee3e86&background=141321&date_format=j%20M%5B%20Y%5D&order=3" height="200px" alt="GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wildanae123&theme=radical&border=ee3e86&background=141321&date_format=j%20M%5B%20Y%5D&order=3" alt="GitHub streak"/>
   </a>
   <a href="https://github.com/Wildanae123">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Wildanae123&show_icons=true&count_private=true&theme=radical&border_color=ee3e86&bg_color=141321&title_color=EE3E86&icon_color=F4D546" height="200px" alt="Github Stats"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Wildanae123&show_icons=true&count_private=true&theme=radical&border_color=ee3e86&bg_color=141321&title_color=EE3E86&icon_color=F4D546" alt="Github Stats"/>
   </a>
   <a href="https://github.com/Wildanae123">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Wildanae123&langs_count=10&layout=compact&theme=radical&border_color=EE3E86&bg_color=141321&title_color=EE3E86&icon_color=F4D546" height="200px" alt="Top Languages"/>
-  </a>
-  <a href="https://github.com/Wildanae123">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wildanae123&radius=10&theme=dracula&area=true&order=5&custom_title=Wildanae123%20GitHub%20Activity%20Graph&bg_color=141321&color=8bcecc&title_color=ee3e86&line=ee3e86&point=8bcecc&area_color=ee3e86" height="200px" alt="Activity Graph"/>
-  </a>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Wildanae123&langs_count=10&layout=compact&theme=radical&border_color=EE3E86&bg_color=141321&title_color=EE3E86&icon_color=F4D546" height="160px" alt="Top Languages"/>
+  </a>  
   <a href="https://leetcode.com/Wildanae/">
-    <img src="https://leetcode-stats.vercel.app/api?username=Wildanae&theme=Dark" height="200px" alt="Leetcode Stats"/>
-  </a>
-  <a href="https://github.com/Wildanae123">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Wildanae123" height="200px" width="700px" alt="Wakatime Stats"/>
+    <img src="https://leetcode-stats.vercel.app/api?username=Wildanae&theme=Dark" alt="Leetcode Stats"/>
   </a>
 </p>
 <br/>
@@ -162,11 +155,19 @@
 </p>
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="snake.svg" />
-  <img src="https://raw.githubusercontent.com/Wildanae123/Wildanae123/output/snake.svg" alt="Snake animation" />
-</picture>
+## 📈 GitHub Activity Graph:
+<p align="center">
+  <a href="https://github.com/Wildanae123">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wildanae123&radius=10&theme=dracula&area=true&order=5&custom_title=Wildanae123%20GitHub%20Activity%20Graph&bg_color=141321&color=8bcecc&title_color=ee3e86&line=ee3e86&point=8bcecc&area_color=ee3e86" alt="Activity Graph"/>
+  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wildanae123/Wildanae123/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wildanae123/Wildanae123/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Wildanae123/Wildanae123/output/snake.svg" />
+  </picture>
+</p>
 <br/>
 
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+<a href="https://github.com/Wildanae123/Wildanae123/releases" target="_blank">
+  <img src="https://img.shields.io/github/v/release/Wildanae123/Wildanae123?include_prereleases&sort=date&display_name=release&style=for-the-badge&label=Version&labelColor=141321&color=E4027F&link=Wildanae123%2FWildanae123%2F">
+</a>
