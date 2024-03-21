@@ -1,3 +1,7 @@
+
+
+
+
 ![banner](https://github.com/Wildanae123/Wildanae123/assets/104717412/f0caed81-7f05-41da-a63c-7d81d4b7412b)
 
 <h3 align="center">
@@ -68,54 +72,23 @@
 
 ## 💡 Tech Stack
 <p align="center">
-  <ul>
-    <li>Programming Languages</li>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=javascript,python&theme=dark" />
-    </a>
-    <li>Frontend Development</li>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" />
-    </a>
-    <li>Backend Development</li>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-    </a>
-    <li>AI/ML</li>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
-    </a>
-    <li>Database</li>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-    </a>
-    <li>Data Visualization</li>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=grafana,chartjs&theme=dark" />
-    </a>
-    <li>Devops</li>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark" />
-    </a>
-    <li>Software</li>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-    </a>
-  </ul>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,python,react,nodejs,tensorflow,mongodb,mysql,grafana,linux,aws,docker,kubernetes,figma&theme=dark&perline=5" />
+  </a>
 </p>
 <br/>
 
 ## 🔝 Top Repo
 <p align="center">
   <a href="https://github.com/Wildanae123/Proyek-Todo-Apps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wildanae123&repo=Proyek-Todo-Apps&border_color=ee3e86&bg_color=141321&title_color=ee3e86&text_color=8bcecc&icon_color=8bcecc" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wildanae123&repo=Proyek-Todo-Apps&border_color=ee3e86&bg_color=141321&title_color=ee3e86&text_color=8bcecc&icon_color=7F3FBF" />
   </a>
   <a href="https://github.com/Wildanae123/Implementasi-Web-Storage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wildanae123&repo=Implementasi-Web-Storage&border_color=ee3e86&bg_color=141321&title_color=ee3e86&text_color=8bcecc&icon_color=8bcecc" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wildanae123&repo=Implementasi-Web-Storage&border_color=ee3e86&bg_color=141321&title_color=ee3e86&text_color=8bcecc&icon_color=7F3FBF" />
   </a>
 </p>
 <p align="left">
-  <a href="https://github.com/Wildanae123?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-2962FF?style=for-the-badge&logo=oding&logoColor=ff008c&labelColor=142350&color=141321" /></a>
+  <a href="https://github.com/Wildanae123?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repositories-2962FF?style=for-the-badge&logoColor=ff008c&logo=fork&labelColor=141321&color=141321" /></a>
 </p>
 <br/>
 
@@ -139,8 +112,8 @@
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Wildanae123&show_icons=true&count_private=true&theme=radical&border_color=ee3e86&bg_color=141321&title_color=EE3E86&icon_color=F4D546" alt="Github Stats"/>
   </a>
   <a href="https://github.com/Wildanae123">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Wildanae123&langs_count=10&layout=compact&theme=radical&border_color=EE3E86&bg_color=141321&title_color=EE3E86&icon_color=F4D546" height="160px" alt="Top Languages"/>
-  </a>  
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Wildanae123&langs_count=10&layout=compact&theme=radical&border_color=EE3E86&bg_color=141321&title_color=EE3E86&icon_color=F8D866" height="160px" width="49%" alt="Top Languages"/>
+  </a>
   <a href="https://leetcode.com/Wildanae/">
     <img src="https://leetcode-stats.vercel.app/api?username=Wildanae&theme=Dark" alt="Leetcode Stats"/>
   </a>
