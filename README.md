@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/github/v/release/Wildanae123/Wildanae123?style=for-the-badge&label=Latest%20Release&labelColor=141321&color=ff008c" alt="Latest Release" />
 </a>
 
-![Mario-Bross-Banner](https://github.com/user-attachments/assets/22405d34-9212-4cc9-9eab-acaaa5813244)
+![alt text](Mario-Bross-Banner.gif)
 <p align="center">
   <a href="https://github.com/Wildanae123" target="_blank">
     <img src="https://img.shields.io/badge/visitors-0-ff008c?style=for-the-badge&labelColor=141321&color=ff008c">
@@ -132,4 +132,4 @@ Who is a highly motivated person with strong technical, problem-solving with exc
 <br/>
 <br/>
 
-![AWS-Techstack-Banner](https://github.com/user-attachments/assets/29c3d56f-06b7-4423-b879-07deef3bee6f)
+![alt text](AWS-Techstack-Banner.png)
