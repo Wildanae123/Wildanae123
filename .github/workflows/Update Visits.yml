@@ -38,9 +38,9 @@ jobs:
       - name: Update README.md
         run: |
           visits=$(cat visits.txt)
-          new_badge="<img src=\"https://img.shields.io/badge/visitors-${visits}-ff008c?style=for-the-badge&labelColor=141321&color=ff008c\">"
-          # Safely replace the old badge line
-          sed -i -E 's|<img src="https://img\.shields\.io/badge/visitors-[0-9]+-ff008c\?style=for-the-badge&labelColor=141321&color=ff008c">|'"$new_badge"'|' README.md
+          new_badge='<img src="https://img.shields.io/badge/visitors-'"$visits"'-ff008c?style=for-the-badge&labelColor=141321&color=ff008c">'
+          sed -i '/img src="https:\/\/img\.shields\.io\/badge\/visitors-.*ff008c.*"/d' README.md
+          echo "$new_badge" | cat - README.md > temp && mv temp README.md
 
       - name: Commit changes
         env:
