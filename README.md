@@ -28,16 +28,14 @@ Want to discuss something? Let’s keep in touch! Drop me a message at
   <br>
   <br>
   <a href="https://www.linkedin.com/in/wildan-andika-permana/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=ff008c&labelColor=141321&color=141321">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&labelColor=141321&color=141321">
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=ff008c&labelColor=141321&color=141321">
+  
+  <a href="https://www.instagram.com/willldanae/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&labelColor=141321&color=141321">
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=ff008c&labelColor=141321&color=141321">
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-20BEFF?style=for-the-badge&logo=facebook&logoColor=ff008c&labelColor=141321&color=141321">
+  <a href="https://www.facebook.com/willldanae/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-20BEFF?style=for-the-badge&logo=facebook&labelColor=141321&color=141321">
   </a>
 </p>
 <br/>
@@ -55,6 +53,7 @@ Want to discuss something? Let’s keep in touch! Drop me a message at
 ```
 Who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Java, Phyton, Microservices, Frontend and Backend Technologies including Machine Learning.
 ```
+
 <p align="center">
   <a href="https://replit.com/@wildanaedev/MyProfile?v=1" target="_blank">
     <img src="https://img.shields.io/badge/Run%20My%20Code-ff008c?style=for-the-badge&labelColor=141321&color=ff008c&logo=python&logoColor=ff008c" alt="Run Code">
