@@ -1,11 +1,11 @@
-<img src="https://img.shields.io/badge/visitors-1-ff008c?style=for-the-badge&labelColor=141321&color=ff008c">
 <a href="https://github.com/Wildanae123/Wildanae123/releases" target="_blank">
   <img src="https://img.shields.io/github/v/release/Wildanae123/Wildanae123?style=for-the-badge&label=Latest%20Release&labelColor=141321&color=ff008c" alt="Latest Release" />
 </a>
 
 ![alt text](Mario-Bross-Banner.gif)
-<p align="center">
+<p align="center" id="visitor-badge">
   <a href="https://github.com/Wildanae123" target="_blank">
+    <img src="https://img.shields.io/badge/visitors-0-ff008c?style=for-the-badge&labelColor=141321&color=ff008c">
   </a>
   <a href="https://github.com/Wildanae123?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/Wildanae123?label=Followers&style=for-the-badge&labelColor=141321&color=ff008c">

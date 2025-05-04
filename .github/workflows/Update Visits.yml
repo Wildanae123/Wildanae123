@@ -26,21 +26,23 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Increment visit counter
-        id: increment
-        run: |
-          if [ ! -f visits.txt ]; then echo "0" > visits.txt; fi
-          visits=$(cat visits.txt)
-          visits=$((visits + 1))
-          echo $visits > visits.txt
-          echo "visits=$visits" >> $GITHUB_OUTPUT
-
       - name: Update README.md
         run: |
           visits=$(cat visits.txt)
           new_badge='<img src="https://img.shields.io/badge/visitors-'"$visits"'-ff008c?style=for-the-badge&labelColor=141321&color=ff008c">'
           sed -i '/img src="https:\/\/img\.shields\.io\/badge\/visitors-.*ff008c.*"/d' README.md
-          echo "$new_badge" | cat - README.md > temp && mv temp README.md
+          awk -v badge="$new_badge" '
+            BEGIN { added = 0 }
+            /<p[^>]*id="visitor-badge"[^>]*>/ { print; in_target = 1; next }
+            /<\/p>/ && in_target && !added {
+              print "  " badge
+              added = 1
+              in_target = 0
+              print
+              next
+            }
+            { print }
+          ' README.md > temp && mv temp README.md
 
       - name: Commit changes
         env:
