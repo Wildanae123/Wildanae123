@@ -5,7 +5,7 @@
 ![alt text](Mario-Bross-Banner.gif)
 <p align="center">
   <a href="https://github.com/Wildanae123" target="_blank">
-    <img src="https://img.shields.io/badge/visitors-0-ff008c?style=for-the-badge&labelColor=141321&color=ff008c">
+    <img src="https://img.shields.io/badge/visitors-459-ff008c?style=for-the-badge<img src="https://img.shields.io/badge/visitors-0-ff008c?style=for-the-badge&labelColor=141321&color=ff008c">labelColor=141321<img src="https://img.shields.io/badge/visitors-0-ff008c?style=for-the-badge&labelColor=141321&color=ff008c">color=ff008c">
   </a>
   <a href="https://github.com/Wildanae123?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/Wildanae123?label=Followers&style=for-the-badge&labelColor=141321&color=ff008c">
