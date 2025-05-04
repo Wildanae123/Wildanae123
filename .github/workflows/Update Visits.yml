@@ -39,7 +39,7 @@ jobs:
         run: |
           visits=${{ steps.increment.outputs.visits }}
           badge="<img src=\"https://img.shields.io/badge/visitors-$visits-ff008c?style=for-the-badge&labelColor=141321&color=ff008c\">"
-          sed -i 's|<img src="https://img.shields.io/badge/visitors-.*-ff008c?style=for-the-badge&labelColor=141321&color=ff008c">|'"$badge"'|' README.md
+          sed -i 's|<img src="https://img.shields.io/badge/visitors-[0-9]*-ff008c?style=for-the-badge&labelColor=141321&color=ff008c">|'"$badge"'|' README.md
 
       - name: Commit changes
         env:
