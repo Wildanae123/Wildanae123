@@ -50,9 +50,8 @@ Want to discuss something? Let’s keep in touch! Drop me a message at
   </samp>
 </p>
 
-```
-Who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Java, Phyton, Microservices, Frontend and Backend Technologies including Machine Learning.
-```
+
+> Who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Java, Phyton, Microservices, Frontend and Backend Technologies including Machine Learning.
 
 <p align="center">
   <a href="https://replit.com/@wildanaedev/MyProfile?v=1" target="_blank">
