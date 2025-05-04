@@ -1,56 +1,37 @@
-name: Update Visits
+name: Update Visits on API Call
 
 on:
-  schedule:
-    - cron: '*/5 * * * *' # Runs every 5 minutes
-  
-  workflow_dispatch:
-  
-  push:
-    branches:
-      - master
+  repository_dispatch:
+    types: [visit-update]
 
 jobs:
-  update-visits:
+  update-visit-json:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    env:
-      github_user_name: ${{ github.repository_owner }}
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        uses: actions/checkout@v3
 
-      - name: Update README.md
+      - name: Update visit count
         run: |
-          visits=$(cat visits.txt)
-          new_badge='<img src="https://img.shields.io/badge/visitors-'"$visits"'-ff008c?style=for-the-badge&labelColor=141321&color=ff008c">'
-          sed -i '/img src="https:\/\/img\.shields\.io\/badge\/visitors-.*ff008c.*"/d' README.md
-          awk -v badge="$new_badge" '
-            BEGIN { added = 0 }
-            /<p[^>]*id="visitor-badge"[^>]*>/ { print; in_target = 1; next }
-            /<\/p>/ && in_target && !added {
-              print "  " badge
-              added = 1
-              in_target = 0
-              print
-              next
-            }
-            { print }
-          ' README.md > temp && mv temp README.md
+          if [ ! -f visits.json ]; then echo '{"count": 0}' > visits.json; fi
+          count=$(jq '.count' visits.json)
+          count=$((count + 1))
+          echo "{\"count\": $count}" > visits.json
+          echo "Visits: $count"
 
-      - name: Commit changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update badge in README.md
         run: |
-          git config --global user.name "${github_user_name}"
-          git config --global user.email "${github_user_name}@users.noreply.github.com"
-          git add visits.txt README.md
-          git commit -m 'Update visits count' || echo "No changes to commit"
-          # Push with authentication token to avoid permission issues
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          count=$(jq '.count' visits.json)
+          badge="<p align=\"center\" id=\"visitor-badge\"><img src=\"https://img.shields.io/badge/visitors-$count-ff008c?style=for-the-badge&labelColor=141321&color=ff008c\" alt=\"visitors badge\" /></p>"
+          sed -i 's|<p align="center" id="visitor-badge">.*</p>|'"$badge"'|' README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add visits.json README.md
+          git commit -m "Update visits count and README badge" || echo "No changes"
+          git push
