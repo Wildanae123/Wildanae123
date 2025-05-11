@@ -2,11 +2,13 @@
   <img src="https://img.shields.io/github/v/release/Wildanae123/Wildanae123?style=for-the-badge&label=Latest%20Release&labelColor=141321&color=ff008c" alt="Latest Release" />
 </a>
 
-![alt text](Mario-Bross-Banner.gif)
+![alt text](Images/Mario-Bross-Banner.gif)
 <p align="center" id="visitor-badge">
-  <a href="https://github.com/Wildanae123" target="_blank">
-    <img src="https://img.shields.io/badge/visitors-<replace_with_visit_count>-ff008c?style=for-the-badge&labelColor=141321&color=ff008c" alt="visitors badge" />
+  <a href="https://u8views.com/github/Wildanae123">
+    <img src="https://u8views.com/api/v1/github/profiles/104717412/views/day-week-month-total-count.svg">
   </a>
+  <br/>
+  <br/>
   <a href="https://github.com/Wildanae123?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/Wildanae123?label=Followers&style=for-the-badge&labelColor=141321&color=ff008c">
   </a>
@@ -130,4 +132,4 @@ Want to discuss something? Let’s keep in touch! Drop me a message at
 <br/>
 <br/>
 
-![alt text](AWS-Techstack-Banner.png)
+![alt text](Images/AWS-Techstack-Banner.png)
