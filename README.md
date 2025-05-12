@@ -3,6 +3,7 @@
 </a>
 
 ![alt text](Images/Mario-Bross-Banner.gif)
+
 <p align="center" id="visitor-badge">
   <a href="https://u8views.com/github/Wildanae123">
     <img src="https://u8views.com/api/v1/github/profiles/104717412/views/day-week-month-total-count.svg">
@@ -16,48 +17,33 @@
 
 ## 🧑 About Me
 
-<h1 align="center">
-  &gt; Hey There! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <br/>
-  My name is <b><ins>WILDAN</ins></b>.
-  <br/>
-  <br/>
-</h1>
-
 <p align="center">
-Want to discuss something? Let’s keep in touch! Drop me a message at
-  <br>
-  <br>
-  <a href="https://www.linkedin.com/in/wildan-andika-permana/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&labelColor=141321&color=141321">
-  </a>
-  
-  <a href="https://www.instagram.com/willldanae/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&labelColor=141321&color=141321">
-  </a>
-  <a href="https://www.facebook.com/willldanae/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-20BEFF?style=for-the-badge&logo=facebook&labelColor=141321&color=141321">
-  </a>
-</p>
-<br/>
-
-<p align="center">
-  <samp>
-    <b>I'm a</b>
+    Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
     <br/>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Laila&pause=1000&color=FF008C&center=true&vCenter=true&random=true&width=435&lines=Information+technology+support;Software+Developer;Programmer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Ungai&pause=1000&color=fff&random=false&center=true&vCenter=true&width=555&lines=I'm+WILDAN.;I'm+a+fullstack+developer;And+IT+support;Let's+work+together+!" alt="Typing SVG" />
     </a>
-  </samp>
 </p>
-
 
 > Who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Java, Phyton, Microservices, Frontend and Backend Technologies including Machine Learning.
 
 <p align="center">
   <a href="https://replit.com/@wildanaedev/MyProfile?v=1" target="_blank">
     <img src="https://img.shields.io/badge/Run%20My%20Code-ff008c?style=for-the-badge&labelColor=141321&color=ff008c&logo=python&logoColor=ff008c" alt="Run Code">
+  </a>
+  <br/>
+  <br/>
+  Want to discuss something? Let’s keep in touch! Drop me a message at
+  <br/>
+  <br/>
+  <a href="https://www.linkedin.com/in/wildan-andika-permana/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&labelColor=141321&color=141321">
+  </a>
+  <a href="https://www.instagram.com/willldanae/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&labelColor=141321&color=141321">
+  </a>
+  <a href="https://www.facebook.com/willldanae/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-20BEFF?style=for-the-badge&logo=facebook&labelColor=141321&color=141321">
   </a>
 </p>
 
